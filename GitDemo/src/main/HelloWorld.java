@@ -22,8 +22,13 @@ public class HelloWorld {
 	 public static void sqr(int num1){
 		    System.out.println(num1*num1);
 		  }
+
 	 public static void tri(int num1){
 		    System.out.println(num1*num1*num1);
+
+	 public static void fr(int num1){
+		    System.out.println(num1*num1*num1*num1);
+
 		  }
 
 }
