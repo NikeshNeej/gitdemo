@@ -6,6 +6,7 @@ public class HelloWorld {
 		
 		System.out.println("HELLO WORLD");
 	}
+
 	  public static void sub(int num1,int num2){
 	    System.out.println(num1-num2);
 	  }
@@ -18,7 +19,6 @@ public class HelloWorld {
 	 public static void sqr(int num1){
 		    System.out.println(num1*num1);
 		  }
-	 
 
 }
 
